@@ -6,11 +6,17 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am currently co-founder of CallHQ.ai, building real-time voice AI for
-          businesses. I am a technologist at heart with strong business judgment—
-          I enjoy going from product strategy to hands-on engineering. My background
-          spans leadership at Adobe, founding Broki and CallHQ, and shipping
-          full-stack products end to end.
+          Computer Science undergraduate at S.R.M University building AI-driven,
+          scalable systems. Developed an IoT flame detection system (40% lower
+          latency) and a deep learning image detection model.
+          <br />
+          <br />
+          Skilled in Python, JavaScript, and modern frameworks with strong
+          fundamentals in DSA and system design. Serving as Technical Head,
+          leading projects and mentoring teams.
+          <br />
+          <br />
+          Focused on solving complex problems and building production-ready systems
         </p>
       </div>
     </div>

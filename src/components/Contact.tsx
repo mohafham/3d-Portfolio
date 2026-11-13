@@ -11,12 +11,12 @@ const Contact = () => {
             <h4>Connect</h4>
             <p>
               <a
-                href="https://www.linkedin.com/in/akashrmalhotra/"
+                href="https://in.linkedin.com/in/mohammad-afham-975010220"
                 target="_blank"
                 rel="noreferrer"
                 data-cursor="disable"
               >
-                LinkedIn — akashrmalhotra
+                LinkedIn — mohammad-afham-975010220
               </a>
             </p>
             <h4>Education</h4>
@@ -31,7 +31,7 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/akashrmalhotra"
+              href="https://github.com/mohafham"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -40,7 +40,7 @@ const Contact = () => {
               GitHub <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/akashrmalhotra/"
+              href="https://in.linkedin.com/in/mohammad-afham-975010220"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -58,7 +58,7 @@ const Contact = () => {
               YouTube <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/leftbraincoder/"
+              href="https://www.instagram.com/ohhafham"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -69,7 +69,7 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Akash Malhotra</span>
+              Designed and Developed <br /> by <span>Mohammad Afham</span>
             </h2>
             <h5>
               <MdCopyright /> 2026

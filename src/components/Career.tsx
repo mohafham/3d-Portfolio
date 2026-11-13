@@ -15,58 +15,60 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Co-Founder</h4>
-                <h5>CallHQ.ai</h5>
+                <h4>Technology Intern</h4>
+                <h5>Fiserv · Chennai</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2026</h3>
             </div>
             <p>
-              Building CallHQ.ai, a voice AI platform for
-              automating customer calls, support, and conversions.
+              Jul 2026 – Oct 2026. Developed Spring Boot REST APIs for
+              enterprise billing workflows and built a Python-based agentic
+              extraction framework for automated data collection across network
+              environments.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Adobe</h4>
-                <h5>6+ years · Noida</h5>
+                <h4>Frontend Developer Intern</h4>
+                <h5>Velocity AI · Chennai</h5>
               </div>
-              <h3>2017–24</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
-              Adobe Technical Communication Suite; functional and linguistic testing
-              strategy; in-house tooling; collaboration with product and engineering
-              for high-quality localized releases.
+              Jan 2025 – Mar 2025. Built responsive React interfaces, integrated
+              REST and GraphQL APIs for real-time updates, and collaborated with
+              backend and design teams to deliver optimized, pixel-perfect
+              experiences.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Consultant</h4>
-                <h5>Genpact Headstrong </h5>
+                <h4>Data Extraction Intern</h4>
+                <h5>Advist Global · New Delhi</h5>
               </div>
-              <h3>2016–17</h3>
+              <h3>2022</h3>
             </div>
             <p>
-              Sep 2016 – Nov 2017. Developed and maintained WCF services consumed
-              by the UI; deployment support across environments; NUnit tests and
-              coverage; bug fixes from QA and users; database work.
+              Sep 2022 – Dec 2022. Extracted and cleaned 5,000+ records from
+              PDFs, spreadsheets, and APIs with Python and Pandas, helping
+              automate data collection and standardize unstructured datasets with
+              90% accuracy.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Sf Engineer</h4>
-                <h5>Infogain</h5>
+                <h4>Technical Head</h4>
+                <h5>Arrowdev Club · SRM University</h5>
               </div>
-              <h3>2013-16</h3>
+              <h3>2023–Now</h3>
             </div>
             <p>
-              Software engineering across enterprise projects, contributing to
-              design, development, and delivery of business applications.
+              Spring 2023 – Present. Lead a 15+ member team and shape the
+              technical direction for coding workshops, hackathons, and seminars,
+              including 3+ large-scale events with 100+ participants each.
             </p>
           </div>
         </div>
