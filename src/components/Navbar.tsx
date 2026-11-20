@@ -43,7 +43,7 @@ const Navbar = () => {
     <>
       <div className="header">
         <a href="/#" className="navbar-title" data-cursor="disable">
-          AM
+          MA
         </a>
         <a
           href="https://in.linkedin.com/in/mohammad-afham-975010220"

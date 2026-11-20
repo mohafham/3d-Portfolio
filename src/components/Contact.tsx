@@ -21,11 +21,7 @@ const Contact = () => {
             </p>
             <h4>Education</h4>
             <p>
-              PGPWE (MBA), Indian Institute of Management, Lucknow — 2021–2023
-            </p>
-            <p>
-              B.Tech Computer Science, Manav Rachna Educational Institutions —
-              2009–2013
+              SRM Institute of Science and Technology — 2023–2027
             </p>
           </div>
           <div className="contact-box">
@@ -47,15 +43,6 @@ const Contact = () => {
               className="contact-social"
             >
               LinkedIn <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.youtube.com/@Leftbraincoder"
-              target="_blank"
-              rel="noreferrer"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              YouTube <MdArrowOutward />
             </a>
             <a
               href="https://www.instagram.com/ohhafham"

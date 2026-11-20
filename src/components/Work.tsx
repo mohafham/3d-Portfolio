@@ -5,32 +5,26 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "CallHQ",
-    category: "Voice AI Calling Platform",
-    tools: "Voice AI, Calling Automation, CRM Integrations",
-    image: "/images/callhq.png",
-    link: "https://callhq.ai",
+    title: "AI Image Detector",
+    category: "Deep Learning-Based Image Analysis",
+    tools:
+      "React.js, FAST API, EfficientNet-B3, Grad-CAM, Deep Learning-Based Image Analysis, Grad-CAM Heatmap Visualization",
+    image: "/images/ai-image-detector.png",
+    link: "https://aifinder-eta.vercel.app/",
   },
   {
-    title: "Whatsapp Automation",
-    category: "WABA Application",
-    tools: "WhatsApp Business API, Workflow Automation, Notifications",
-    image: "/images/whatsapp.png",
-    link: "https://whatsapp.callhq.ai",
+    title: "The QUR Foundation",
+    category: "Collaborative Charity Platform",
+    tools: "Node.js, JWT, Razorpay, Charity Listings, Online Donations",
+    image: "/images/qur-foundation.png",
+    link: "https://qur-af.vercel.app",
   },
   {
-    title: "Broki",
-    category: "Real Estate Platform for FnB Industry",
-    tools: "Property Discovery, Lead Management, Marketplace Workflows",
-    image: "/images/broki.png",
-    link: "https://broki.in",
-  },
-  {
-    title: "Orrdr.com",
-    category: "Ecommerce Platform and Mobile App",
-    tools: "Ecommerce, Mobile Experience, Order Management",
-    image: "/images/orrdr.png",
-    link: "https://orrdr.com",
+    title: "Nimbus – Cloud Notes Platform",
+    category: "Cloud Note Management Platform",
+    tools: "React.js, REST APIs, CRUD Operation, File Management",
+    image: "/images/nimbus.png",
+    link: "https://cloud-note-frontend-bcxvsg7fe-afhams-projects-482614de.vercel.app/",
   },
 ];
 
